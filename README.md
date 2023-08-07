@@ -1,4 +1,4 @@
-# nodejs-aws-codedeploy-pipeline
+# nodejs-aws-codedeploy-pipelines
 
 How to set ci/cd for nodejs app with aws codeDeploy and aws codePipeline
 
